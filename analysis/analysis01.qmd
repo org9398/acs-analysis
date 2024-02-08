@@ -12,5 +12,8 @@ library(here)
 data <- read_csv(here("data", "prepped-acs.csv"))
 
 glimpse(data)
+
+
+# git add -u adds all files that have changes made to them
 ```
 
